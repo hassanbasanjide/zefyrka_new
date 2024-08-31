@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter/services.dart';
-import 'package:zefyrka/src/widgets/baseline_proxy.dart';
-import 'package:zefyrka/zefyrka.dart';
+import 'package:zefyrka_new/src/widgets/baseline_proxy.dart';
+import 'package:zefyrka_new/zefyrka.dart';
 
 import '../services/keyboard.dart' as keyboard;
 import 'editable_text_block.dart';

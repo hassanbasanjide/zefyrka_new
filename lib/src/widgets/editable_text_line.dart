@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:notus_format/notus_format.dart';
-import 'package:zefyrka/src/rendering/editable_box.dart';
+import 'package:zefyrka_new/src/rendering/editable_box.dart';
 
 import '../rendering/editable_text_line.dart';
 import 'cursor.dart';

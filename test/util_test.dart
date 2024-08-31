@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:quill_format/quill_format.dart';
-import 'package:zefyrka/util.dart';
+import 'package:zefyrka_new/util.dart';
 
 void main() {
   group('getPositionDelta', () {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:zefyrka/zefyrka.dart';
+import 'package:zefyrka_new/zefyrka.dart';
 
 import '../testing.dart';
 

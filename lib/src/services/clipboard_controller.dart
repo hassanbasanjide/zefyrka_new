@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:zefyrka/src/widgets/controller.dart';
+import 'package:zefyrka_new/src/widgets/controller.dart';
 
 abstract class ClipboardController {
   void copy(ZefyrController controller, String plainText);

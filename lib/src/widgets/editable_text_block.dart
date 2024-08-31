@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:notus_format/notus_format.dart';
-import 'package:zefyrka/zefyrka.dart';
+import 'package:zefyrka_new/zefyrka.dart';
 
 import '../rendering/editable_text_block.dart';
 import 'cursor.dart';

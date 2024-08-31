@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
-import 'package:zefyrka/src/services/clipboard_controller.dart';
-import 'package:zefyrka/src/widgets/controller.dart';
+import 'package:zefyrka_new/src/services/clipboard_controller.dart';
+import 'package:zefyrka_new/src/widgets/controller.dart';
 
 class SimpleClipboardController implements ClipboardController {
   @override

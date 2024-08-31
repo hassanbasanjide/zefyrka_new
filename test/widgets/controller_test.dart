@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:quill_format/quill_format.dart';
-import 'package:zefyrka/zefyrka.dart';
+import 'package:zefyrka_new/zefyrka.dart';
 
 void main() {
   group('$ZefyrController', () {

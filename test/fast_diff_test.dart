@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:zefyrka/src/fast_diff.dart';
+import 'package:zefyrka_new/src/fast_diff.dart';
 
 void main() {
   group('fastDiff', () {
